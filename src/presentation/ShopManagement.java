@@ -2,9 +2,6 @@ package presentation;
 
 import entity.Categories;
 import entity.Product;
-import entityClean.Categories;
-import entityClean.Product;
-
 import java.util.Scanner;
 
 public class ShopManagement {
